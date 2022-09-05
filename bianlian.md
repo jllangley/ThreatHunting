@@ -1,4 +1,4 @@
-# \[Redacted IOCs\]
+# \[Bian Lian IOCs\]
 [Redacted blog](https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/?utm_source=Internal%20Referrals&utm_campaign=BianLian)
 
 ### svchost spawned from parent process that is not services.exe
