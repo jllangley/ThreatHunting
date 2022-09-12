@@ -1,6 +1,6 @@
 # \[Bian Lian IOCs\]
 [Redacted blog](https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/?utm_source=Internal%20Referrals&utm_campaign=BianLian)
-
+[KQL Queries](https://gist.github.com/jllangley/599318d80ac6cef69a8607881a5a7778)
 ### svchost spawned from parent process that is not services.exe
 ### svchost spawned from unusual path
 
